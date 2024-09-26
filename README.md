@@ -1,4 +1,4 @@
-![Black Green White And Blue Modern Data Analytics Course Video](https://github.com/user-attachments/assets/96f54184-4d35-4bae-9e38-2cc7a118417b)
+<img src=https://github.com/user-attachments/assets/96f54184-4d35-4bae-9e38-2cc7a118417b  height="500">
 
 - 👋 Hi, I’m @Kavitha-Bramhachari-Kamsala
 - 👀 I’m interested in ...
